@@ -1,4 +1,4 @@
-# D3 Homework - Data Journalism and D3
+# Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -80,4 +80,4 @@ Your final product will be assessed on the following metrics:
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+UCSD Data Science © 2019. All Rights Reserved.
